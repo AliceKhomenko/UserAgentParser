@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserAgentParser.iml" filepath="$PROJECT_DIR$/.idea/modules/UserAgentParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserAgentParser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserAgentParser_main.iml" group="UserAgentParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserAgentParser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UserAgentParser_test.iml" group="UserAgentParser" />
+    </modules>
+  </component>
+</project>
